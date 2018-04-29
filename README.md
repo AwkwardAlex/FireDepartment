@@ -9,5 +9,5 @@ without any emergencies.
 To start-up the application type following commands in the terminal in the stated order:
 
 - ```git clone https://github.com/AwkwardAlex/FireDepartment.git```
-- ```cd firedepartment```
+- ```cd FireDepartment```
 - ```java -cp fire.department-1.0-jar-with-dependencies.jar Main```
